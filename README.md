@@ -1,1 +1,1 @@
-This plotform used for de novo design of drug molecules for a parrticular target. Here, we are designed 500,000 drug molecules for a target of PD-1/PD-L1. Then all the compounds are screened and finally we have identified the top 5 compounds. 
+This platform used for de novo design of drug molecules for a particular target. Here, we have designed 500,000 drug molecules for a target of PD-1/PD-L1. Then all the compounds are virtually screened and finally we have identified the top 5 compounds. 
